@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Alpha! 👨‍💻<br><br>I love coding, creating unique profiles, and experimenting with different programming languages. Coding is both my hobby and my passion, especially when I have free time.<br><br>I enjoy learning new things, building creative projects, and improving my skills every day. Every project and workflow is an opportunity for me to learn, grow, and create something better.<br><br>Code • Create • Learn • Improve 🚀
+# Hi, I'm Alpha! 👨‍💻
+<br><br>I love coding, creating unique profiles, and experimenting with different programming languages. Coding is both my hobby and my passion, especially when I have free time.<br><br>I enjoy learning new things, building creative projects, and improving my skills every day. Every project and workflow is an opportunity for me to learn, grow, and create something better.<br><br>Code • Create • Learn • Improve 🚀
 
 
 ## 🌐 Socials:
@@ -12,7 +12,14 @@ Hi, I'm Alpha! 👨‍💻<br><br>I love coding, creating unique profiles, and e
 ![](https://streak-stats.demolab.com/?user=mdimrankhanalpha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdimrankhanalpha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=mdimrankhanalpha&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mdimrankhanalpha&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdimrankhanalpha&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=mdimrankhanalpha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
